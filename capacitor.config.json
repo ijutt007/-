@@ -1,0 +1,13 @@
+{  
+  "appId": "org.zikr.app",  
+  "appName": "ذکر — Zikr",  
+  "webDir": "www",  
+  "bundledWebRuntime": false,  
+  "server": {  
+    "androidScheme": "https"  
+  },  
+  "android": {  
+    "allowMixedContent": true,  
+    "backgroundColor": "#fbf9f4"  
+  }  
+}  
